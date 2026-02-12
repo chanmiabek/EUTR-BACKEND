@@ -1,0 +1,8 @@
+django==6.0.2
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+django-cors-headers==4.4.0
+Pillow==10.4.0
+
+# Install all common Django packages for this type of project
+pip install django djangorestframework django-cors-headers pillow python-decouple psycopg2-binary
