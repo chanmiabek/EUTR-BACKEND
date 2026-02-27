@@ -3,6 +3,7 @@ djangorestframework==3.15.2
 djangorestframework-simplejwt==5.3.1
 django-cors-headers==4.4.0
 Pillow==11.2.1; python_version < "3.14"
+Pillow; python_version >= "3.14"
 gunicorn==23.0.0
 whitenoise==6.8.2
 dj-database-url==2.2.0
